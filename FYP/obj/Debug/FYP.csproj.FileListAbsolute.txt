@@ -1,0 +1,51 @@
+C:\Users\HP\Desktop\FYP\FYP\bin\Debug\FYP.exe.config
+C:\Users\HP\Desktop\FYP\FYP\obj\Debug\FYP.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\FYP\FYP\obj\Debug\FYP.Form1.resources
+C:\Users\HP\Desktop\FYP\FYP\obj\Debug\FYP.Properties.Resources.resources
+C:\Users\HP\Desktop\FYP\FYP\obj\Debug\FYP.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\FYP\FYP\bin\Debug\FYP.exe
+C:\Users\HP\Desktop\FYP\FYP\bin\Debug\FYP.pdb
+C:\Users\HP\Desktop\FYP\FYP\bin\Debug\aForge.dll
+C:\Users\HP\Desktop\FYP\FYP\bin\Debug\EZ-QRCode.dll
+C:\Users\HP\Desktop\FYP\FYP\bin\Debug\FFMPEG.dll
+C:\Users\HP\Desktop\FYP\FYP\bin\Debug\EZ_B.xml
+C:\Users\HP\Desktop\FYP\FYP\obj\Debug\FYP.exe
+C:\Users\HP\Desktop\FYP\FYP\obj\Debug\FYP.pdb
+C:\Users\user\Desktop\FYP\bin\Debug\FYP.exe.config
+C:\Users\user\Desktop\FYP\obj\Debug\FYP.exe
+C:\Users\user\Desktop\FYP\obj\Debug\FYP.pdb
+C:\Users\HP\Desktop\FYP\FYP\obj\Debug\FYP.Form2.resources
+C:\Users\HP\Desktop\FYP\FYP\obj\Debug\FYP.Form3.resources
+C:\Users\HP\Documents\FYP\FYP\bin\Debug\FYP.exe.config
+C:\Users\HP\Documents\FYP\FYP\obj\Debug\FYP.exe
+C:\Users\HP\Documents\FYP\FYP\obj\Debug\FYP.pdb
+E:\FYP\FYP\bin\Debug\FYP.exe.config
+E:\FYP\FYP\obj\Debug\FYP.exe
+E:\FYP\FYP\obj\Debug\FYP.pdb
+E:\FYP\FYP\bin\Debug\FYP.exe
+E:\FYP\FYP\bin\Debug\FYP.pdb
+E:\FYP\FYP\bin\Debug\aForge.dll
+E:\FYP\FYP\bin\Debug\EZ-QRCode.dll
+E:\FYP\FYP\bin\Debug\FFMPEG.dll
+E:\FYP\FYP\bin\Debug\EZ_B.xml
+E:\FYP\FYP\obj\Debug\FYP.csprojResolveAssemblyReference.cache
+E:\FYP\FYP\obj\Debug\FYP.Form2.resources
+E:\FYP\FYP\obj\Debug\FYP.Form3.resources
+E:\FYP\FYP\obj\Debug\FYP.Form1.resources
+E:\FYP\FYP\obj\Debug\FYP.Properties.Resources.resources
+E:\FYP\FYP\obj\Debug\FYP.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\FYP P4\FYP\bin\Debug\FYP.exe.config
+C:\Users\HP\Documents\FYP P4\FYP\obj\Debug\FYP.exe
+C:\Users\HP\Documents\FYP P4\FYP\obj\Debug\FYP.pdb
+C:\Users\HP\Documents\FYP P4\FYP\bin\Debug\FYP.exe
+C:\Users\HP\Documents\FYP P4\FYP\bin\Debug\FYP.pdb
+C:\Users\HP\Documents\FYP P4\FYP\bin\Debug\aForge.dll
+C:\Users\HP\Documents\FYP P4\FYP\bin\Debug\EZ-QRCode.dll
+C:\Users\HP\Documents\FYP P4\FYP\bin\Debug\FFMPEG.dll
+C:\Users\HP\Documents\FYP P4\FYP\bin\Debug\EZ_B.xml
+C:\Users\HP\Documents\FYP P4\FYP\obj\Debug\FYP.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\FYP P4\FYP\obj\Debug\FYP.Form2.resources
+C:\Users\HP\Documents\FYP P4\FYP\obj\Debug\FYP.Form3.resources
+C:\Users\HP\Documents\FYP P4\FYP\obj\Debug\FYP.Form1.resources
+C:\Users\HP\Documents\FYP P4\FYP\obj\Debug\FYP.Properties.Resources.resources
+C:\Users\HP\Documents\FYP P4\FYP\obj\Debug\FYP.csproj.GenerateResource.Cache

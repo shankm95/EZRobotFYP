@@ -1,0 +1,28 @@
+C:\Users\HP\Downloads\EZ-B SDK Windows\EZ-SDK\C#\Tutorial 59 - Auto Position\bin\Debug\Tutorial 59 - Auto Position.exe.config
+C:\Users\HP\Downloads\EZ-B SDK Windows\EZ-SDK\C#\Tutorial 59 - Auto Position\bin\Debug\Tutorial 59 - Auto Position.exe
+C:\Users\HP\Downloads\EZ-B SDK Windows\EZ-SDK\C#\Tutorial 59 - Auto Position\bin\Debug\Tutorial 59 - Auto Position.pdb
+C:\Users\HP\Downloads\EZ-B SDK Windows\EZ-SDK\C#\Tutorial 59 - Auto Position\bin\Debug\EZ_B.dll
+C:\Users\HP\Downloads\EZ-B SDK Windows\EZ-SDK\C#\Tutorial 59 - Auto Position\bin\Debug\aForge.dll
+C:\Users\HP\Downloads\EZ-B SDK Windows\EZ-SDK\C#\Tutorial 59 - Auto Position\bin\Debug\EZ-QRCode.dll
+C:\Users\HP\Downloads\EZ-B SDK Windows\EZ-SDK\C#\Tutorial 59 - Auto Position\bin\Debug\FFMPEG.dll
+C:\Users\HP\Downloads\EZ-B SDK Windows\EZ-SDK\C#\Tutorial 59 - Auto Position\bin\Debug\EZ_B.xml
+C:\Users\HP\Downloads\EZ-B SDK Windows\EZ-SDK\C#\Tutorial 59 - Auto Position\obj\Debug\Tutorial 59 - Auto Position.csprojResolveAssemblyReference.cache
+C:\Users\HP\Downloads\EZ-B SDK Windows\EZ-SDK\C#\Tutorial 59 - Auto Position\obj\Debug\Tutorial_59___Auto_Position.Form1.resources
+C:\Users\HP\Downloads\EZ-B SDK Windows\EZ-SDK\C#\Tutorial 59 - Auto Position\obj\Debug\Tutorial_59___Auto_Position.Properties.Resources.resources
+C:\Users\HP\Downloads\EZ-B SDK Windows\EZ-SDK\C#\Tutorial 59 - Auto Position\obj\Debug\Tutorial 59 - Auto Position.csproj.GenerateResource.Cache
+C:\Users\HP\Downloads\EZ-B SDK Windows\EZ-SDK\C#\Tutorial 59 - Auto Position\obj\Debug\Tutorial 59 - Auto Position.exe
+C:\Users\HP\Downloads\EZ-B SDK Windows\EZ-SDK\C#\Tutorial 59 - Auto Position\obj\Debug\Tutorial 59 - Auto Position.pdb
+C:\Users\HP\Desktop\FYP\Tutorial 59 - Auto Position\bin\Debug\Tutorial 59 - Auto Position.exe.config
+C:\Users\HP\Desktop\FYP\Tutorial 59 - Auto Position\obj\Debug\Tutorial 59 - Auto Position.exe
+C:\Users\HP\Desktop\FYP\Tutorial 59 - Auto Position\obj\Debug\Tutorial 59 - Auto Position.pdb
+C:\Users\HP\Desktop\FYP\Tutorial 59 - Auto Position\bin\Debug\Tutorial 59 - Auto Position.exe
+C:\Users\HP\Desktop\FYP\Tutorial 59 - Auto Position\bin\Debug\Tutorial 59 - Auto Position.pdb
+C:\Users\HP\Desktop\FYP\Tutorial 59 - Auto Position\bin\Debug\aForge.dll
+C:\Users\HP\Desktop\FYP\Tutorial 59 - Auto Position\bin\Debug\EZ-QRCode.dll
+C:\Users\HP\Desktop\FYP\Tutorial 59 - Auto Position\bin\Debug\FFMPEG.dll
+C:\Users\HP\Desktop\FYP\Tutorial 59 - Auto Position\bin\Debug\EZ_B.xml
+C:\Users\HP\Desktop\FYP\Tutorial 59 - Auto Position\obj\Debug\Tutorial 59 - Auto Position.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\FYP\Tutorial 59 - Auto Position\obj\Debug\Tutorial_59___Auto_Position.Form1.resources
+C:\Users\HP\Desktop\FYP\Tutorial 59 - Auto Position\obj\Debug\Tutorial_59___Auto_Position.Properties.Resources.resources
+C:\Users\HP\Desktop\FYP\Tutorial 59 - Auto Position\obj\Debug\Tutorial 59 - Auto Position.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\FYP\Tutorial 59 - Auto Position\bin\Debug\FYP.exe.config
